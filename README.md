@@ -80,6 +80,8 @@ graph LR
     API -- "3. EF Core (Query/Save)" --> DB
     DB -- "4. Retorno dos Dados" --> API
     API -- "5. Resposta (200/201/204)" --> Client
+    
+<img width="894" height="323" alt="ssql" src="https://github.com/user-attachments/assets/85b64aba-b9f9-4c70-9e0a-b056b0043bb7" />
 
 
 (Obs: Caso o diagrama não renderize, verifique a imagem fluxo_arquitetura.png na raiz do repositório).
